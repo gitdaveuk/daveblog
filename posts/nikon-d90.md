@@ -1,0 +1,14 @@
+---
+title: Yesterday I received a Nikon D90
+slug: nikon-d90
+description: Yesterday I received my new camera
+tags:
+  - personal
+added: 2026-07-15T14:51:27.064Z
+---
+
+And here I am testing a photo-post.
+
+![](/assets/DSC_0075.jpeg)
+
+Did that work?
