@@ -89,36 +89,12 @@ export default defineConfig({
 						list: true,
 						options: [
 							{
-								value: "technical",
-								label: "Technical",
+								value: "hello",
+								label: "Hello",
 							},
 							{
-								value: "advice",
-								label: "Advice",
-							},
-							{
-								value: "events",
-								label: "Events",
-							},
-							{
-								value: "learning",
-								label: "Learning",
-							},
-							{
-								value: "meta",
-								label: "Meta",
-							},
-							{
-								value: "work",
-								label: "Work",
-							},
-							{
-								value: "personal",
-								label: "Personal",
-							},
-							{
-								value: "projects",
-								label: "Projects",
+								value: "photo",
+								label: "Photo",
 							},
 						],
 					},
