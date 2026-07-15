@@ -1,7 +1,7 @@
 ---
 title: Blogging from my phone
 slug: phone
-description: When I tested out blogging from my phone
+description: When I tested out blogging from my phone.
 tags:
   - hello
 added: 2026-07-15T15:38:36.567Z
