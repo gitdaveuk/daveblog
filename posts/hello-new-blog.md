@@ -4,7 +4,7 @@ slug: hello-new-blog
 description: >-
   The first post in my new blog
 tags:
-  - blog
+  - hello
 added: "July 15 2026"
 ---
 
