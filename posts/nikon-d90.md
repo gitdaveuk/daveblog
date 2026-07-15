@@ -2,8 +2,9 @@
 title: Yesterday I received a Nikon D90
 slug: nikon-d90
 description: Yesterday I received my new camera
-tags: hello
-added: 2026-07-15T14:51:27.064Z
+tags:
+- hello
+added: "July 15 2026"
 ---
 
 And here I am testing a photo-post.
